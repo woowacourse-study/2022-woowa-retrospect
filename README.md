@@ -8,5 +8,5 @@
   | :----------: | :------: | :------: | :-----: | :---: | :--------------: | :---------: | :---------: | :---------: | :---------: |
   | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/20) | [회고](https://happysisyphe.tistory.com/23) | | |  |  |  |  |  |
   | [호프](https://github.com/moonheekim0118) |  |  |  |  | |  |   |  |  |
-  | [마르코](https://github.com/wonsss) |  |  |  [회고](https://velog.io/@jangws/%EC%9A%B0%ED%85%8C%EC%BD%94-2%EC%9B%94-%EB%84%B7%EC%A7%B8-%EC%A3%BC-%ED%9A%8C%EA%B3%A0) |  | |  |   |  |  |
+  | [마르코](https://github.com/wonsss) |  |  |  |  | |  |   |  |  |
   | [우디](https://github.com/greenblues1190) |  |  |  |  | |  |   |  |  |
