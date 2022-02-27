@@ -9,4 +9,4 @@
   | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/20) | [회고](https://happysisyphe.tistory.com/23) | | |  |  |  |  |  |
   | [호프](https://github.com/moonheekim0118) |  |  |  |  | |  |   |  |  |
   | [마르코](https://github.com/wonsss) |  |  |  |  | |  |   |  |  |
-  | [우디](https://github.com/greenblues1190) |  |  |  |  | |  |   |  |  |
+  | [우디](https://github.com/greenblues1190) |  |  | [회고](https://woojeongmin.com/2022/retrospective/weekly-1/) |  | |  |   |  |  |
