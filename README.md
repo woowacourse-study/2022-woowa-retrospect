@@ -11,6 +11,18 @@
   | [마르코](https://github.com/wonsss) |  |  | [회고](https://velog.io/@jangws/%EC%9A%B0%ED%85%8C%EC%BD%94-2%EC%9B%94-%EB%84%B7%EC%A7%B8-%EC%A3%BC-%ED%9A%8C%EA%B3%A0) |[회고](https://velog.io/@jangws/%ED%9A%8C%EA%B3%A0-%EC%9A%B0%ED%85%8C%EC%BD%94-4%EC%A3%BC%EC%B0%A8) |[회고](https://velog.io/@jangws/%ED%9A%8C%EA%B3%A0-%EC%9A%B0%ED%85%8C%EC%BD%94-5%EC%A3%BC%EC%B0%A8) |  |   |  |  |
   | [우디](https://github.com/greenblues1190) |  |  | [회고](https://woojeongmin.com/2022/retrospective/weekly-1/) |  | |  |   |  |  |
 
+<br/>
+
+## 💛 회고 방식
+1. 일요일 오전 10시에 모입니다.
+2. 20분 동안 한 주를 돌아보며, 좋았던 점 아쉬웠던 점을 감정회고/기술회고 측면으로 작성합니다.
+3. 툴은 Figjam을 이용합닏.
+4. 일요일이 지나기 전에, 개인회고 링크를 README에 올립니다.
+5. 한 주에 위 규칙을 지키지 못 할 시 5000원의 벌금을 냅니다.
+
+
+<br/>
+
 
 ## 💙 회고 스터디 중간 회고
 
