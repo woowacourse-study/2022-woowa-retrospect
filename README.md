@@ -19,7 +19,7 @@
   |       |  1 주차  |  2 주차   |  3 주차  |  4 주차  |   5 주차   |    6 주차    |    7 주차    |    8 주차    |
   | :----------: | :------: | :------: | :-----: | :---: | :--------------: | :---------: | :---------: | :---------: |
   | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/36) | | | | | | | |
-  | [호프](https://github.com/moonheekim0118) | | | | | | | | |
+  | [호프](https://github.com/moonheekim0118) | [회고](https://observant-aardwolf-5e1.notion.site/1-2022-04-19-2022-04-24-b28004de456a420aaac9258d1ef924e0) | | | | | | | |
   | [마르코](https://github.com/wonsss) | | | | | | | | |
   | [우디](https://github.com/greenblues1190) | | | | | | | | |
 
