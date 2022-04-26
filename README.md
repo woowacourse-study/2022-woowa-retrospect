@@ -9,7 +9,7 @@
   | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/20) | [회고](https://happysisyphe.tistory.com/23) | [회고](https://happysisyphe.tistory.com/25) | [회고](https://happysisyphe.tistory.com/27) | [회고](https://happysisyphe.tistory.com/28) | [회고](https://happysisyphe.tistory.com/30) | [회고](https://happysisyphe.tistory.com/32) |  | [회고](https://happysisyphe.tistory.com/34) |
   | [호프](https://github.com/moonheekim0118) |  | [회고](https://velog.io/@moonheekim0118/2022.2.142022.2.20-%ED%9A%8C%EA%B3%A0)  | [회고](https://velog.io/@moonheekim0118/2022.02.212022.02.27-%ED%9A%8C%EA%B3%A0) |  | [회고](https://velog.io/@moonheekim0118/2022.03.072022.03.13-%ED%9A%8C%EA%B3%A0)| [회고](https://velog.io/@moonheekim0118/2022.03.142022.03.20-%ED%9A%8C%EA%B3%A0) | [회고](https://velog.io/@moonheekim0118/2022.03.212022.03.27-%ED%9A%8C%EA%B3%A0)  |  |  |
   | [마르코](https://github.com/wonsss) |  |  | [회고](https://velog.io/@jangws/%EC%9A%B0%ED%85%8C%EC%BD%94-2%EC%9B%94-%EB%84%B7%EC%A7%B8-%EC%A3%BC-%ED%9A%8C%EA%B3%A0) |[회고](https://velog.io/@jangws/%ED%9A%8C%EA%B3%A0-%EC%9A%B0%ED%85%8C%EC%BD%94-4%EC%A3%BC%EC%B0%A8) |[회고](https://velog.io/@jangws/%ED%9A%8C%EA%B3%A0-%EC%9A%B0%ED%85%8C%EC%BD%94-5%EC%A3%BC%EC%B0%A8) |[회고](https://velog.io/@jangws/%ED%9A%8C%EA%B3%A0-%EC%9A%B0%ED%85%8C%EC%BD%94-6%EC%A3%BC%EC%B0%A8)|[회고](https://velog.io/@jangws/%ED%9A%8C%EA%B3%A0-%EC%9A%B0%ED%85%8C%EC%BD%94-7%EC%A3%BC%EC%B0%A8-%EC%82%B0%EC%B1%85)|  |  |
-  | [우디](https://github.com/greenblues1190) |  |  | [회고](https://woojeongmin.com/2022/retrospective/weekly-1/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-2/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-3/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-4/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-5/)  |  |  |
+  | [우디](https://github.com/greenblues1190) |  |  | [회고](https://woojeongmin.com/2022/retrospective/weekly-1/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-2/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-3/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-4/) | [회고](https://woojeongmin.com/2022/retrospective/weekly-5/)  |  | [회고](https://woojeongmin.com/2022/retrospective/weekly-6/) |
 
 <br/>
 
@@ -21,7 +21,7 @@
   | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/36) | | | | | | | |
   | [호프](https://github.com/moonheekim0118) | [회고](https://observant-aardwolf-5e1.notion.site/1-2022-04-19-2022-04-24-b28004de456a420aaac9258d1ef924e0) | | | | | | | |
   | [마르코](https://github.com/wonsss) |[회고](https://velog.io/@jangws/%EC%9A%B0%ED%85%8C%EC%BD%94-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) | | | | | | | |
-  | [우디](https://github.com/greenblues1190) | | | | | | | | |
+  | [우디](https://github.com/greenblues1190) | [회고](https://woojeongmin.com/2022/retrospective/weekly-7/) | | | | | | | |
 
 ## 💛 회고 방식
 1. 일요일 오전 10시에 모입니다.
