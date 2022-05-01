@@ -24,7 +24,7 @@
   | [우디](https://github.com/greenblues1190) | [회고](https://woojeongmin.com/2022/retrospective/weekly-7/) | | | | | | | |
   | [준찌](https://github.com/juunzzi) | | | | | | | | |
   | [결](https://github.com/yunjin-kim) | | | | | | | | |
-  | [위니](https://github.com/rladpwl0512) | [회고](https://velog.io/@rladpwl0512/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | | | | | | | |
+  | [위니](https://github.com/rladpwl0512) | | [회고](https://velog.io/@rladpwl0512/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | | | | | | |
 
 ## 💛 회고 방식
 1. 일요일 오전 10시에 모입니다.
