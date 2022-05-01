@@ -23,7 +23,7 @@
   | [마르코](https://github.com/wonsss) |[회고](https://velog.io/@jangws/%EC%9A%B0%ED%85%8C%EC%BD%94-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) |[회고](https://polyester-stay-438.notion.site/Level2-2-22-4-25-22-5-1-e132a399db264c00acea6ea05aa16039)| | | | | | |
   | [우디](https://github.com/greenblues1190) | [회고](https://woojeongmin.com/2022/retrospective/weekly-7/) | | | | | | | |
   | [준찌](https://github.com/juunzzi) | | | | | | | | |
-  | [결](https://github.com/yunjin-kim) | | | | | | | | |
+  | [결](https://github.com/yunjin-kim) | [회고](https://velog.io/@giriboy/2022.05.01-%ED%9A%8C%EA%B3%A0) | | | | | | | |
   | [위니](https://github.com/rladpwl0512) | | [회고](https://velog.io/@rladpwl0512/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | | | | | | |
   | [도리](https://github.com/prefer2) | |[회고](https://prefer2.tistory.com/entry/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | | | | | | |
 
