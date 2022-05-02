@@ -18,7 +18,7 @@
 
   |       |  1 주차  |  2 주차   |  3 주차  |  4 주차  |   5 주차   |    6 주차    |    7 주차    |    8 주차    |
   | :----------: | :------: | :------: | :-----: | :---: | :--------------: | :---------: | :---------: | :---------: |
-  | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/36) | | | | | | | |
+  | [시지프](https://github.com/euijinkk) | [회고](https://happysisyphe.tistory.com/36) | [회고](https://happysisyphe.tistory.com/37) | | | | | | |
   | [호프](https://github.com/moonheekim0118) | [회고](https://observant-aardwolf-5e1.notion.site/1-2022-04-19-2022-04-24-b28004de456a420aaac9258d1ef924e0) |[회고](https://observant-aardwolf-5e1.notion.site/2-2022-04-25-2022-05-01-109f627992274e4dbfbf6a1f764c3a3c) | | | | | | |
   | [마르코](https://github.com/wonsss) |[회고](https://velog.io/@jangws/%EC%9A%B0%ED%85%8C%EC%BD%94-11%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0) |[회고](https://polyester-stay-438.notion.site/Level2-2-22-4-25-22-5-1-e132a399db264c00acea6ea05aa16039)| | | | | | |
   | [우디](https://github.com/greenblues1190) | [회고](https://woojeongmin.com/2022/retrospective/weekly-7/) | | | | | | | |
