@@ -25,7 +25,7 @@
   | [준찌](https://github.com/juunzzi) | | [회고](https://velog.io/@rat8397/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-9-%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%9A%8C%EA%B3%A0) | [회고](https://velog.io/@rat8397/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-11-inline-style-%EA%B0%9D%EC%B2%B4%EB%A1%9C-%EC%A0%84%EB%8B%AC%EB%90%98%EB%8A%94-prop) | | | | | |
   | [결](https://github.com/yunjin-kim) | | [회고](https://velog.io/@giriboy/2022.05.01-%ED%9A%8C%EA%B3%A0) | | | | | | |
   | [위니](https://github.com/rladpwl0512) | | [회고](https://velog.io/@rladpwl0512/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | | | | | | |
-  | [도리](https://github.com/prefer2) | |[회고](https://prefer2.tistory.com/entry/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | | | | | | |
+  | [도리](https://github.com/prefer2) | |[회고](https://prefer2.tistory.com/entry/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) |[회고](https://prefer2.tistory.com/entry/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-52-58) | | | | | |
 
 ## 💛 회고 방식
 1. 일요일 오전 10시에 모입니다.
