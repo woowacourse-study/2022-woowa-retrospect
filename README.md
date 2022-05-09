@@ -26,6 +26,7 @@
   | [결](https://github.com/yunjin-kim) | | [회고](https://velog.io/@giriboy/2022.05.01-%ED%9A%8C%EA%B3%A0) | [회고](https://velog.io/@giriboy/2022.05.09-%ED%9A%8C%EA%B3%A0) | | | | | |
   | [위니](https://github.com/rladpwl0512) | | [회고](https://velog.io/@rladpwl0512/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) | [회고](https://velog.io/@rladpwl0512/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-52-58) | | | | | |
   | [도리](https://github.com/prefer2) | |[회고](https://prefer2.tistory.com/entry/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-425-51) |[회고](https://prefer2.tistory.com/entry/%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0-52-58) | | | | | |
+  | [티거](https://github.com/daaaayeah) | | [회고](https://508.notion.site/4-25-5-1-4bab6d21bdb64907bc33d4dfbcb5c56f) | [회고](https://508.notion.site/5-2-5-8-0a3de1b4998f432b9c211ef8edb76f86) | | | | | |
 
 ## 💛 회고 방식
 1. 일요일 오전 10시에 모입니다.
